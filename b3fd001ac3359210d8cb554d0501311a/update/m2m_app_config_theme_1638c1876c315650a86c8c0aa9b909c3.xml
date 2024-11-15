@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability display_value="Public">5238c1870d31565063515998f6d48ac3</applicability>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-15 13:26:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1638c1876c315650a86c8c0aa9b909c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="To Do" source="x_118804_to_do">b3fd001ac3359210d8cb554d0501311a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">b3fd001ac3359210d8cb554d0501311a</sys_scope>
+        <sys_update_name>m2m_app_config_theme_1638c1876c315650a86c8c0aa9b909c3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-15 13:26:04</sys_updated_on>
+        <theme display_value="Light Theme">9a38c18778315650cd387fb47b1aeec3</theme>
+        <ux_app_configuration display_value="To Do App Config">0238c187893156500e86a15b04cfff80</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

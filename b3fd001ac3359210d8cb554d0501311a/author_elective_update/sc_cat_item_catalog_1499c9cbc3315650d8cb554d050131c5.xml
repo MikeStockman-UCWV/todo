@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Request a User Account">63198dc7c3315650d8cb554d050131f0</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-15 13:31:55</sys_created_on>
+        <sys_id>1499c9cbc3315650d8cb554d050131c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Request a User Account</sys_name>
+        <sys_package display_value="To Do" source="x_118804_to_do">b3fd001ac3359210d8cb554d0501311a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">b3fd001ac3359210d8cb554d0501311a</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_1499c9cbc3315650d8cb554d050131c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-15 13:31:55</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="To Do">b3fd001ac3359210d8cb554d0501311a</application>
+        <file_path/>
+        <instance_id>14e3e3311bda8250c82acb7b234bcb8f</instance_id>
+        <instance_name>dev272351</instance_name>
+        <name>sc_cat_item_catalog_1499c9cbc3315650d8cb554d050131c5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Request a User Account">63198dc7c3315650d8cb554d050131f0</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-15 13:31:55</sys_created_on><sys_id>1499c9cbc3315650d8cb554d050131c5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Request a User Account</sys_name><sys_package display_value="To Do" source="x_118804_to_do">b3fd001ac3359210d8cb554d0501311a</sys_package><sys_policy/><sys_scope display_value="To Do">b3fd001ac3359210d8cb554d0501311a</sys_scope><sys_update_name>sc_cat_item_catalog_1499c9cbc3315650d8cb554d050131c5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-15 13:31:55</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>10232123</payload_hash>
+        <record_name>Service Catalog.Request a User Account</record_name>
+        <reverted_from/>
+        <source>68b130cfc3b51650d8cb554d0501313d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-15 13:31:55</sys_created_on>
+        <sys_id>5899c9cbc3315650d8cb554d050131f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1933005eee30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-15 13:31:55</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>5899c9cb0f315650cc4f2eec391ac7ef</update_guid>
+        <update_guid_history>5899c9cb0f315650cc4f2eec391ac7ef:10232123</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Request a User Account">0ed9c18fc3315650d8cb554d0501316e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-15 13:33:07</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>4d717c3a867f4e20b8d02e152f951bc4</sys_id>
+        <sys_metadata>1499c9cbc3315650d8cb554d050131c5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Request a User Account</sys_name>
+        <sys_package display_value="To Do" source="x_118804_to_do">b3fd001ac3359210d8cb554d0501311a</sys_package>
+        <sys_parent display_value="Request a New User Account">63198dc7c3315650d8cb554d050131f0</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="To Do">b3fd001ac3359210d8cb554d0501311a</sys_scope>
+        <sys_scope_delete display_value="">3b331411af0742f88f2dd492d6fd0a90</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_1499c9cbc3315650d8cb554d050131c5</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_1499c9cbc3315650d8cb554d050131c5">5899c9cbc3315650d8cb554d050131f0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-15 13:33:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
