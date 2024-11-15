@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Catalog Item page - Related Items dataset">0a38c187cb3156507fb6d5229c53cfa3</dataset>
+        <datasource display_value="Custom Portal Catalog Item page - Related Items Datasource">0238c1878f315650d5b2cec60e9c0ca2</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-15 13:26:07</sys_created_on>
+        <sys_id>c638c187e431565013ac8d4373c28ea1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="To Do" source="x_118804_to_do">b3fd001ac3359210d8cb554d0501311a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">b3fd001ac3359210d8cb554d0501311a</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_c638c187e431565013ac8d4373c28ea1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-15 13:26:07</sys_updated_on>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>

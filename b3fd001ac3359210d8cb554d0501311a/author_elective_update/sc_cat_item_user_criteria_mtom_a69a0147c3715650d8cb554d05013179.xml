@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Request a User Account">63198dc7c3315650d8cb554d050131f0</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-15 13:36:26</sys_created_on>
+        <sys_id>a69a0147c3715650d8cb554d05013179</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request a User Account.Any User</sys_name>
+        <sys_package display_value="To Do" source="x_118804_to_do">b3fd001ac3359210d8cb554d0501311a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">b3fd001ac3359210d8cb554d0501311a</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_a69a0147c3715650d8cb554d05013179</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-15 13:36:26</sys_updated_on>
+        <user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="To Do">b3fd001ac3359210d8cb554d0501311a</application>
+        <file_path/>
+        <instance_id>14e3e3311bda8250c82acb7b234bcb8f</instance_id>
+        <instance_name>dev272351</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_a69a0147c3715650d8cb554d05013179</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Request a User Account">63198dc7c3315650d8cb554d050131f0</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-15 13:36:26</sys_created_on><sys_id>a69a0147c3715650d8cb554d05013179</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Request a User Account.Any User</sys_name><sys_package display_value="To Do" source="x_118804_to_do">b3fd001ac3359210d8cb554d0501311a</sys_package><sys_policy/><sys_scope display_value="To Do">b3fd001ac3359210d8cb554d0501311a</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_a69a0147c3715650d8cb554d05013179</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-15 13:36:26</sys_updated_on><user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>18178658</payload_hash>
+        <record_name>Request a User Account.Any User</record_name>
+        <reverted_from/>
+        <source>68b130cfc3b51650d8cb554d0501313d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-15 13:36:26</sys_created_on>
+        <sys_id>2e9a0147c3715650d8cb554d0501317d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193300a126c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-15 13:36:26</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>6e9a0147b1715650ac8d79403df5b37c</update_guid>
+        <update_guid_history>6e9a0147b1715650ac8d79403df5b37c:18178658</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Request a User Account.Any User">11ea49c7c3715650d8cb554d0501310c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-15 13:37:43</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>49ad18e40278431ea84257c1516171e9</sys_id>
+        <sys_metadata>a69a0147c3715650d8cb554d05013179</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request a User Account.Any User</sys_name>
+        <sys_package display_value="To Do" source="x_118804_to_do">b3fd001ac3359210d8cb554d0501311a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="To Do">b3fd001ac3359210d8cb554d0501311a</sys_scope>
+        <sys_scope_delete display_value="">3b331411af0742f88f2dd492d6fd0a90</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_a69a0147c3715650d8cb554d05013179</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_a69a0147c3715650d8cb554d05013179">2e9a0147c3715650d8cb554d0501317d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-15 13:37:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

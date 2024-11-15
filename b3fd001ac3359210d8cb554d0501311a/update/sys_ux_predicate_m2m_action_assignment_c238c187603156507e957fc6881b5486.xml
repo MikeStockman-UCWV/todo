@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="approve">1e38c187e23156502466f5e10a9132c1</declarative_action_assignment>
+        <predicate display_value="My tasks requested item">c638c1874b315650eb9cf33a4ac28d9b</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-15 13:26:06</sys_created_on>
+        <sys_id>c238c187603156507e957fc6881b5486</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="To Do" source="x_118804_to_do">b3fd001ac3359210d8cb554d0501311a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">b3fd001ac3359210d8cb554d0501311a</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_c238c187603156507e957fc6881b5486</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-15 13:26:06</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>
